@@ -3,6 +3,7 @@
 int main()
 {   int count = 0;
     const float gravity = 9.8;
+    Name = "vyoam";
     int range_from;
     int range_till;
     std::cin >> range_from >> range_till;
