@@ -4,6 +4,7 @@ int main()
 {
     size_t j{};
 string jai = "jai shree ram";
+string om ="om";
     
     long y = 3410066600;
     std::cout << sizeof(j) << " " << sizeof(y) << " " << sizeof(a) << "\n";
