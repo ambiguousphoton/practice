@@ -12,6 +12,7 @@ int main()
     // std::cout<<b;
     // std::cout << exp(10);
     int xi = sumer(34,53)
+    Char hi = 'o';
     // int var = 4;
     // int power = 5;
     // int temp = 1;
