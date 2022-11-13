@@ -3,7 +3,7 @@
 int main()
 {
     short int x, y;
-    x = 10;
+    x = 17;
     y = 23;
     char a{15};
     char b{50};
