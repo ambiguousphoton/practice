@@ -24,7 +24,7 @@ int main()
     cout << earth.name << " " << earth.adder(54, 64) << " ";
     int num = 0b1010;
     int alpha = 0x00000c;
-    long double p = 0.5356635353463536353635;
+    long double p = 0.53566353583463536353635;
     std::string t = "jai";
     std::cout << sizeof(p); // sizeof ( t ) ;
     std::string prometheus;
