@@ -1,7 +1,7 @@
 #include <iostream>
 int main()
 {
-    char c{'c'};
+    char c{'cd'};
     char a{65};
     std::cout << a << "\n";
     char val{65};
