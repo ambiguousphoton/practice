@@ -2,7 +2,7 @@
 #include <cmath>
 int main()
 {
-   int x = 2;
+   int x = 7;
    int y = 11;
    std::cout << std::pow(x, y) << "\n";
    x = 3;
