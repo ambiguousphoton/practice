@@ -6,7 +6,7 @@ int main()
 {   const float radtodegree = 57.296;
     long double temp = 0;
     std::cout << std::setprecision(20);
-    long double values[5];
+    long double values[6];
     for (int i = 0; i < 5; i++)
     {
         values[i] = std::sin(temp / radtodegree );
