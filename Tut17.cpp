@@ -1,7 +1,7 @@
 #include <iostream>
 int main(){
 auto x = 4/5d;
-auto arr[6];
+auto arr[7];
 int size;
 std::cin >> size;
 for(size_t i {}; i < size ; i++){
